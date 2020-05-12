@@ -21,7 +21,7 @@
 
 
 module Clock(
-    // inputs - these will depend on your board's constraint files
+    // inputs
     // Clocks
     input   CLK100MHZ,
     
@@ -30,7 +30,7 @@ module Clock(
     input   BTNR,       //Right -- increment minutes
     input   BTNC,        //Center -- reset button
     
-	// outputs - these will depend on your board's constraint files
+	// outputs
 	// Seconds display output
 	output wire [5:0]  LED,
 	
@@ -42,7 +42,6 @@ module Clock(
     //Add the reset
     wire Reset;
     Delay_Reset Delay_Reset1(CLK100MHZ, BTNC, Reset); 
-
 
 	//Add and debounce the buttons
 	wire MButton;
@@ -73,13 +72,14 @@ module Clock(
 	//The main logic
 	always @(posedge CLK100MHZ) begin
         // Block to let time run continuously
-        if(secs != 6'd59)
+        if(secs <= 6'd59)
             secs <= secs + 1'b1;
         else begin
             secs <= 6'd0;
             mins2 <= mins2 + 1'b1;
-            if (mins2 > 9) begin 
-                mins1 <= mins1 + 1'b1;
+            if (mins2 > 9) begin
+                mins2 <= mins2 % 10;
+                mins1 <= (mins1 + 1'b1) % 6;
             end
         end
         
@@ -87,8 +87,9 @@ module Clock(
             mins1 <= 4'd0;
             mins2 <= 4'd0;
             hours2 <= hours2 + 1'b1;
-            if (hours2 > 9) begin 
-                hours1 <= hours1 + 1'b1;
+            if (hours2 > 9) begin
+                hours2 <= hours2 % 10;
+                hours1 <= (hours1 + 1'b1) % 3;
             end
         end
         
@@ -107,8 +108,8 @@ module Clock(
                 hours1 <= 4'd0; 
                 hours2 <= 4'd0;
             end else
-                hours1 <= hours1 + 1'b1;
-                hours2 <= hours2 + 1'b1;
+                hours1 <= (hours1 + 1'b1) % 3;
+                hours2 <= (hours2 + 1'b1) % 10;
         end
 	end
 	// Block to set the current time
@@ -120,8 +121,8 @@ module Clock(
                 mins1 <= 4'd0; 
                 mins2 <= 4'd0;
             end else
-                mins1 <= mins1 + 1'b1;
-                mins2 <= mins2 + 1'b1;
+                mins1 <= (mins1 + 1'b1) % 6;
+                mins2 <= (mins2 + 1'b1) % 10;
         end
 	end
     

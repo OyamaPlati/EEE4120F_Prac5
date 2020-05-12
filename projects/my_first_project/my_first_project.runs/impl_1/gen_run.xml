@@ -1,30 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1587821612">
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1589211345">
   <File Type="BITSTR-BMM" Name="my_first_project_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="my_first_project_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="my_first_project_timing_summary_init.rpt"/>
   <File Type="ROUTE-PWR" Name="my_first_project_power_routed.rpt"/>
   <File Type="PA-TCL" Name="my_first_project.tcl"/>
+  <File Type="OPT-TIMING" Name="my_first_project_timing_summary_opted.rpt"/>
   <File Type="OPT-DCP" Name="my_first_project_opt.dcp"/>
   <File Type="ROUTE-PWR-SUM" Name="my_first_project_power_summary_routed.pb"/>
   <File Type="REPORTS-TCL" Name="my_first_project_reports.tcl"/>
   <File Type="OPT-DRC" Name="my_first_project_drc_opted.rpt"/>
   <File Type="OPT-HWDEF" Name="my_first_project.hwdef"/>
   <File Type="PWROPT-DCP" Name="my_first_project_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="my_first_project_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="my_first_project_timing_summary_pwropted.rpt"/>
   <File Type="PLACE-DCP" Name="my_first_project_placed.dcp"/>
   <File Type="PLACE-IO" Name="my_first_project_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="my_first_project_clock_utilization_placed.rpt"/>
   <File Type="PLACE-UTIL" Name="my_first_project_utilization_placed.rpt"/>
   <File Type="PLACE-UTIL-PB" Name="my_first_project_utilization_placed.pb"/>
   <File Type="PLACE-CTRL" Name="my_first_project_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="my_first_project_incremental_reuse_placed.rpt"/>
   <File Type="PLACE-PRE-SIMILARITY" Name="my_first_project_incremental_reuse_pre_placed.rpt"/>
   <File Type="BG-BGN" Name="my_first_project.bgn"/>
+  <File Type="PLACE-TIMING" Name="my_first_project_timing_summary_placed.rpt"/>
   <File Type="POSTPLACE-PWROPT-DCP" Name="my_first_project_postplace_pwropt.dcp"/>
   <File Type="BG-BIN" Name="my_first_project.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="my_first_project_timing_summary_postplace_pwropted.rpt"/>
   <File Type="PHYSOPT-DCP" Name="my_first_project_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="my_first_project_drc_physopted.rpt"/>
   <File Type="BITSTR-MSK" Name="my_first_project.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="my_first_project_timing_summary_physopted.rpt"/>
   <File Type="ROUTE-ERROR-DCP" Name="my_first_project_routed_error.dcp"/>
   <File Type="ROUTE-DCP" Name="my_first_project_routed.dcp"/>
   <File Type="ROUTE-BLACKBOX-DCP" Name="my_first_project_routed_bb.dcp"/>
   <File Type="ROUTE-DRC" Name="my_first_project_drc_routed.rpt"/>
   <File Type="ROUTE-DRC-PB" Name="my_first_project_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
   <File Type="BITSTR-LTX" Name="my_first_project.ltx"/>
   <File Type="ROUTE-DRC-RPX" Name="my_first_project_drc_routed.rpx"/>
   <File Type="BITSTR-MMI" Name="my_first_project.mmi"/>
@@ -38,17 +50,24 @@
   <File Type="ROUTE-TIMINGSUMMARY" Name="my_first_project_timing_summary_routed.rpt"/>
   <File Type="ROUTE-TIMING-PB" Name="my_first_project_timing_summary_routed.pb"/>
   <File Type="ROUTE-TIMING-RPX" Name="my_first_project_timing_summary_routed.rpx"/>
-  <File Type="RDI-RDI" Name="my_first_project.vdi"/>
+  <File Type="ROUTE-SIMILARITY" Name="my_first_project_incremental_reuse_routed.rpt"/>
   <File Type="ROUTE-CLK" Name="my_first_project_clock_utilization_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW" Name="my_first_project_bus_skew_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW-PB" Name="my_first_project_bus_skew_routed.pb"/>
   <File Type="ROUTE-BUS-SKEW-RPX" Name="my_first_project_bus_skew_routed.rpx"/>
   <File Type="POSTROUTE-PHYSOPT-DCP" Name="my_first_project_postroute_physopt.dcp"/>
   <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="my_first_project_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="my_first_project_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="my_first_project_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="my_first_project_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="my_first_project_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="my_first_project_bus_skew_postroute_physopted.pb"/>
   <File Type="BG-BIT" Name="my_first_project.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="my_first_project_bus_skew_postroute_physopted.rpx"/>
   <File Type="BITSTR-RBT" Name="my_first_project.rbt"/>
   <File Type="BITSTR-NKY" Name="my_first_project.nky"/>
   <File Type="BG-DRC" Name="my_first_project.drc"/>
+  <File Type="RDI-RDI" Name="my_first_project.vdi"/>
   <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
     <Filter Type="Srcs"/>

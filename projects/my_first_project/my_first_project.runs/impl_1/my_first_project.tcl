@@ -61,24 +61,92 @@ proc step_failed { step } {
 }
 
 
-start_step write_bitstream
-set ACTIVE_STEP write_bitstream
+start_step init_design
+set ACTIVE_STEP init_design
 set rc [catch {
-  create_msg_db write_bitstream.pb
+  create_msg_db init_design.pb
   set_param chipscope.maxJobs 1
-  open_checkpoint my_first_project_routed.dcp
+  create_project -in_memory -part xc7a100tcsg324-1
+  set_property design_mode GateLvl [current_fileset]
+  set_param project.singleFileAddWarning.threshold 0
   set_property webtalk.parent_dir {C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/my_first_project/my_first_project.cache/wt} [current_project]
-  catch { write_mem_info -force my_first_project.mmi }
-  write_bitstream -force my_first_project.bit 
-  catch {write_debug_probes -quiet -force my_first_project}
-  catch {file copy -force my_first_project.ltx debug_nets.ltx}
-  close_msg_db -file write_bitstream.pb
+  set_property parent.project_path {C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/my_first_project/my_first_project.xpr} [current_project]
+  set_property ip_output_repo {{C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/my_first_project/my_first_project.cache/ip}} [current_project]
+  set_property ip_cache_permissions {read write} [current_project]
+  add_files -quiet {{C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/my_first_project/my_first_project.runs/synth_1/my_first_project.dcp}}
+  read_xdc {{C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/constraints/my_first_project_nexys71000t_constraints.xdc}}
+  link_design -top my_first_project -part xc7a100tcsg324-1
+  close_msg_db -file init_design.pb
 } RESULT]
 if {$rc} {
-  step_failed write_bitstream
+  step_failed init_design
   return -code error $RESULT
 } else {
-  end_step write_bitstream
+  end_step init_design
+  unset ACTIVE_STEP 
+}
+
+start_step opt_design
+set ACTIVE_STEP opt_design
+set rc [catch {
+  create_msg_db opt_design.pb
+  opt_design 
+  write_checkpoint -force my_first_project_opt.dcp
+  create_report "impl_1_opt_report_drc_0" "report_drc -file my_first_project_drc_opted.rpt -pb my_first_project_drc_opted.pb -rpx my_first_project_drc_opted.rpx"
+  close_msg_db -file opt_design.pb
+} RESULT]
+if {$rc} {
+  step_failed opt_design
+  return -code error $RESULT
+} else {
+  end_step opt_design
+  unset ACTIVE_STEP 
+}
+
+start_step place_design
+set ACTIVE_STEP place_design
+set rc [catch {
+  create_msg_db place_design.pb
+  if { [llength [get_debug_cores -quiet] ] > 0 }  { 
+    implement_debug_core 
+  } 
+  place_design 
+  write_checkpoint -force my_first_project_placed.dcp
+  create_report "impl_1_place_report_io_0" "report_io -file my_first_project_io_placed.rpt"
+  create_report "impl_1_place_report_utilization_0" "report_utilization -file my_first_project_utilization_placed.rpt -pb my_first_project_utilization_placed.pb"
+  create_report "impl_1_place_report_control_sets_0" "report_control_sets -verbose -file my_first_project_control_sets_placed.rpt"
+  close_msg_db -file place_design.pb
+} RESULT]
+if {$rc} {
+  step_failed place_design
+  return -code error $RESULT
+} else {
+  end_step place_design
+  unset ACTIVE_STEP 
+}
+
+start_step route_design
+set ACTIVE_STEP route_design
+set rc [catch {
+  create_msg_db route_design.pb
+  route_design 
+  write_checkpoint -force my_first_project_routed.dcp
+  create_report "impl_1_route_report_drc_0" "report_drc -file my_first_project_drc_routed.rpt -pb my_first_project_drc_routed.pb -rpx my_first_project_drc_routed.rpx"
+  create_report "impl_1_route_report_methodology_0" "report_methodology -file my_first_project_methodology_drc_routed.rpt -pb my_first_project_methodology_drc_routed.pb -rpx my_first_project_methodology_drc_routed.rpx"
+  create_report "impl_1_route_report_power_0" "report_power -file my_first_project_power_routed.rpt -pb my_first_project_power_summary_routed.pb -rpx my_first_project_power_routed.rpx"
+  create_report "impl_1_route_report_route_status_0" "report_route_status -file my_first_project_route_status.rpt -pb my_first_project_route_status.pb"
+  create_report "impl_1_route_report_timing_summary_0" "report_timing_summary -max_paths 10 -file my_first_project_timing_summary_routed.rpt -pb my_first_project_timing_summary_routed.pb -rpx my_first_project_timing_summary_routed.rpx -warn_on_violation "
+  create_report "impl_1_route_report_incremental_reuse_0" "report_incremental_reuse -file my_first_project_incremental_reuse_routed.rpt"
+  create_report "impl_1_route_report_clock_utilization_0" "report_clock_utilization -file my_first_project_clock_utilization_routed.rpt"
+  create_report "impl_1_route_report_bus_skew_0" "report_bus_skew -warn_on_violation -file my_first_project_bus_skew_routed.rpt -pb my_first_project_bus_skew_routed.pb -rpx my_first_project_bus_skew_routed.rpx"
+  close_msg_db -file route_design.pb
+} RESULT]
+if {$rc} {
+  write_checkpoint -force my_first_project_routed_error.dcp
+  step_failed route_design
+  return -code error $RESULT
+} else {
+  end_step route_design
   unset ACTIVE_STEP 
 }
 

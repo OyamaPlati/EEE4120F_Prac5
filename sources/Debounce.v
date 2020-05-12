@@ -34,6 +34,7 @@ module Debounce(
         // implement your logic here
         previous_state <= button;
         if (previous_state != out) begin
+        
             out <= previous_state;
             #30e6 // Delay by 30ms              
             
@@ -41,11 +42,9 @@ module Debounce(
             if (previous_state == 0 && out == 1) begin
                 // Rising edge of clock 
                 // Count rising edges of clock
-                Count = Count + 1;
+                Count <= Count + 1'b1;
             end
-            
         end
-         
     end
     
 endmodule
