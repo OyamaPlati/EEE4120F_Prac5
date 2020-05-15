@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FPGA_WallClock.srcs/sources_1/imports/sources/BCD_Decoder.v" \
+"../../../../FPGA_WallClock.srcs/sources_1/imports/sources/Clock.v" \
+"../../../../../../sources/Debounce.v" \
+"../../../../FPGA_WallClock.srcs/sources_1/imports/sources/Delay_Reset.v" \
+"../../../../FPGA_WallClock.srcs/sources_1/imports/sources/SS_Driver.v" \
+"../../../../FPGA_WallClock.srcs/tb_clock/new/tb_clock.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

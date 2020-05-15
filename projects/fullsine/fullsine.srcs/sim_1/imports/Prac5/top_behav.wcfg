@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="879760000fs"></ZoomStartTime>
+      <ZoomEndTime time="879767301fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="142"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/top/CLK100MHZ" type="logic">
+      <obj_property name="ElementShortName">CLK100MHZ</obj_property>
+      <obj_property name="ObjectShortName">CLK100MHZ</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/SW" type="array">
+      <obj_property name="ElementShortName">SW[7:0]</obj_property>
+      <obj_property name="ObjectShortName">SW[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/BTNL" type="logic">
+      <obj_property name="ElementShortName">BTNL</obj_property>
+      <obj_property name="ObjectShortName">BTNL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/AUD_PWM" type="logic">
+      <obj_property name="ElementShortName">AUD_PWM</obj_property>
+      <obj_property name="ObjectShortName">AUD_PWM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/AUD_SD" type="logic">
+      <obj_property name="ElementShortName">AUD_SD</obj_property>
+      <obj_property name="ObjectShortName">AUD_SD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/LED" type="array">
+      <obj_property name="ElementShortName">LED[2:0]</obj_property>
+      <obj_property name="ObjectShortName">LED[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/arp_switch" type="logic">
+      <obj_property name="ElementShortName">arp_switch</obj_property>
+      <obj_property name="ObjectShortName">arp_switch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/ena" type="logic">
+      <obj_property name="ElementShortName">ena</obj_property>
+      <obj_property name="ObjectShortName">ena</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/wea" type="logic">
+      <obj_property name="ElementShortName">wea</obj_property>
+      <obj_property name="ObjectShortName">wea</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/addra" type="array">
+      <obj_property name="ElementShortName">addra[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addra[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/dina" type="array">
+      <obj_property name="ElementShortName">dina[10:0]</obj_property>
+      <obj_property name="ObjectShortName">dina[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/douta" type="array">
+      <obj_property name="ElementShortName">douta[10:0]</obj_property>
+      <obj_property name="ObjectShortName">douta[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/PWM" type="array">
+      <obj_property name="ElementShortName">PWM[10:0]</obj_property>
+      <obj_property name="ObjectShortName">PWM[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/clkdiv" type="array">
+      <obj_property name="ElementShortName">clkdiv[12:0]</obj_property>
+      <obj_property name="ObjectShortName">clkdiv[12:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/note_switch" type="array">
+      <obj_property name="ElementShortName">note_switch[26:0]</obj_property>
+      <obj_property name="ObjectShortName">note_switch[26:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/note" type="array">
+      <obj_property name="ElementShortName">note[1:0]</obj_property>
+      <obj_property name="ObjectShortName">note[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/f_base" type="array">
+      <obj_property name="ElementShortName">f_base[8:0]</obj_property>
+      <obj_property name="ObjectShortName">f_base[8:0]</obj_property>
+   </wvobject>
+</wave_config>

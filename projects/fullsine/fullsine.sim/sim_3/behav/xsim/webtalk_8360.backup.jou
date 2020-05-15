@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu May 14 21:23:28 2020
+# Process ID: 8360
+# Current directory: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim/xsim.dir/Debounce_module_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim/webtalk.log
+# Journal file: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Oyama -notrace
