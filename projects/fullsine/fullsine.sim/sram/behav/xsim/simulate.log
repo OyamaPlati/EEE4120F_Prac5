@@ -1,0 +1,8 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+sram test bench from timetoexplore.net.
+0x55
+0xaa
+0x55
+0x2a
+$finish called at time : 150 ns : File "C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.srcs/sram/new/sram_basic_testbench.v" Line 36

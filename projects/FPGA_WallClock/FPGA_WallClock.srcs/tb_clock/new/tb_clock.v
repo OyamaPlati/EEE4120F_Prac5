@@ -3,16 +3,19 @@ module tb_clock;
     reg   BTNU;       //Up -- increment hours
     reg   BTNR;       //Right -- increment minutes
     reg   BTNC;        //Center -- reset button
+    reg   [7:0]SW;
     
     wire [5:0]    LED;
     wire [3:0]    SegmentDrivers;
     wire [7:0]    SevenSegment; 
     
     // Instantiate the Device Under Test
-    Clock myClock(.CLK100MHZ(CLK100MHZ), 
+    Clock myClock (
+        .CLK100MHZ(CLK100MHZ), 
         .BTNU(BTNU), 
         .BTNR(BTNR), 
-        .BTNC(BTNC), 
+        .BTNC(BTNC),
+        .SW(SW), 
         .LED(LED), 
         .SegmentDrivers(SegmentDrivers), 
         .SevenSegment(SevenSegment)
@@ -24,13 +27,14 @@ module tb_clock;
         BTNU = 0;
         BTNR = 0;
         BTNC = 0;
+        SW = 8'b11111111; 
      end  
+     
+     always begin
+	   #5 BTNC <= 0;
+	 end
      
      always begin
         #5 CLK100MHZ <= ~CLK100MHZ;
      end
-     
-     /*always @(posedge CLK100MHZ) begin
-        $display ("[Time %0t ps] IntReg value = %x", $time, Clock.SegmentDrivers);
-     end*/
 endmodule

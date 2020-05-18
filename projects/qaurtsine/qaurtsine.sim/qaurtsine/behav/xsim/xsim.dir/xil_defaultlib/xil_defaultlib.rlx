@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/qaurtsine/qaurtsine.sim/qaurtsine/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/qaurtsine/qaurtsine.srcs/qaurtsine/new/qaurtsine_tb.v,1589799505,verilog,,,,qaurtsine_tb,,,,,,,,
+C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/qaurtsine/qaurtsine.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1589795227,verilog,,C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/sources/Debounce_module.v,,blk_mem_gen_0,,,,,,,,
+C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/sources/Debounce_module.v,1589377855,verilog,,C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/sources/pwm_module.v,,Debounce_module,,,,,,,,
+C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/sources/pwm_module.v,1589377421,verilog,,C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/sources/qaurtsine.v,,pwm_module,,,,,,,,
+C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/sources/qaurtsine.v,1589811620,verilog,,C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/qaurtsine/qaurtsine.srcs/qaurtsine/new/qaurtsine_tb.v,,qaurtsine,,,,,,,,

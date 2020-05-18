@@ -6,14 +6,14 @@ module Debounce(
     );
     
     reg previous_state;
-    reg [21:0]Count = 0; //assume count is null on FPGA configuration
+    reg [14:0]Count = 0; //assume count is null on FPGA configuration
  
     //--------------------------------------------
     always @(posedge clk) begin  	//activates every clock edge
      //previous_state <= Button;		// localise the reset signal
-      if (button && button != previous_state && &Count) begin		// reset block
+      if (button && button != previous_state && Count == 0) begin		// reset block
         out <= 1'b1;					// reset the output to 1
-         Count <= 0;
+         Count <= 1;
          previous_state <= 1;
       end 
       else if (button && button != previous_state) begin

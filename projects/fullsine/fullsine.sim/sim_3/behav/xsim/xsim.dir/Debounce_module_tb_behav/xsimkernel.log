@@ -1,7 +1,7 @@
-Running: xsim.dir/Debounce_module_tb_behav/xsimk.exe -simmode gui -wdb Debounce_module_tb_behav.wdb -simrunnum 0 -socket 55761
+Running: xsim.dir/Debounce_module_tb_behav/xsimk.exe -simmode gui -wdb Debounce_module_tb_behav.wdb -simrunnum 0 -socket 63158
 Design successfully loaded
-Design Loading Memory Usage: 5272 KB (Peak: 5272 KB)
-Design Loading CPU Usage: 77 ms
+Design Loading Memory Usage: 5260 KB (Peak: 5260 KB)
+Design Loading CPU Usage: 61 ms
 Simulation completed
-Simulation Memory Usage: 5916 KB (Peak: 5916 KB)
-Simulation CPU Usage: 93 ms
+Simulation Memory Usage: 5936 KB (Peak: 5936 KB)
+Simulation CPU Usage: 77 ms

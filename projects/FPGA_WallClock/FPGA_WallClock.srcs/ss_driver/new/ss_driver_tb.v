@@ -19,7 +19,7 @@ module ss_driver_tb();
 	// Initialise
 	initial begin
 	   Clk = 0;
-	   Reset = 1;
+	   Reset = 0;
 	   BCD3 = 4'd0;
        BCD2 = 4'd1;
        BCD1 = 4'd2;
@@ -28,10 +28,6 @@ module ss_driver_tb();
 	
 	always begin
 	   #5 Clk <= ~Clk;
-	end 
-	
-	always begin
-	   #5 Reset <= 0;
 	end
 	
 	task increase;
@@ -43,8 +39,15 @@ module ss_driver_tb();
 	   end
 	endtask
 	
+	/*task toggle;
+	   begin
+	       #20 SegmentDrivers <= SegmentDrivers + 1;
+	   end
+	endtask*/
+	
 	always @(posedge Clk)begin
 	   increase;
+	   //toggle;
 	end 
 
 endmodule

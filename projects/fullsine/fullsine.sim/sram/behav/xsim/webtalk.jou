@@ -2,11 +2,11 @@
 # Webtalk v2019.1 (64-bit)
 # SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
 # IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Thu May 14 12:25:22 2020
-# Process ID: 8392
-# Current directory: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/Prac5/Prac5.sim/sram/behav/xsim
-# Command line: wbtcv.exe -mode batch -source C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/Prac5/Prac5.sim/sram/behav/xsim/xsim.dir/sram_basic_testbench_behav/webtalk/xsim_webtalk.tcl -notrace
-# Log file: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/Prac5/Prac5.sim/sram/behav/xsim/webtalk.log
-# Journal file: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/Prac5/Prac5.sim/sram/behav/xsim\webtalk.jou
+# Start of session at: Sat May 16 17:52:25 2020
+# Process ID: 8516
+# Current directory: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sram/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sram/behav/xsim/xsim.dir/sram_basic_testbench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sram/behav/xsim/webtalk.log
+# Journal file: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sram/behav/xsim\webtalk.jou
 #-----------------------------------------------------------
 source C:/Users/Oyama -notrace

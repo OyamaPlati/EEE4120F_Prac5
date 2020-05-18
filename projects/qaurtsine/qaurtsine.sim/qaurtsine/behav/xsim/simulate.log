@@ -1,0 +1,6207 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module qaurtsine_tb.DUT.myMemory.inst.native_mem_module.blk_mem_gen_v8_4_3_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Note: 0 F-base: 234, Clock-divider:    0
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:    1
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:    2
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:    3
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:    4
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:    5
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:    6
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:    7
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:    8
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:    9
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   10
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   11
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   12
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   13
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   14
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   15
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   16
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   17
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   18
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   19
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   20
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   21
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   22
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   23
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   24
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   25
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   26
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   27
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   28
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   29
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   30
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   31
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   32
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   33
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   34
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   35
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   36
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   37
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   38
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   39
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   40
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   41
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   42
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   43
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   44
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   45
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   46
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   47
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   48
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   49
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   50
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   51
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   52
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   53
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   54
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   55
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   56
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   57
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   58
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   59
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   60
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   61
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   62
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   63
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   64
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   65
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   66
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   67
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   68
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   69
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   70
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   71
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   72
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   73
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   74
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   75
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   76
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   77
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   78
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   79
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   80
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   81
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   82
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   83
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   84
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   85
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   86
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   87
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   88
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   89
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   90
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   91
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   92
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   93
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   94
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   95
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   96
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   97
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   98
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   99
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  100
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  101
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  102
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  103
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  104
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  105
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  106
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  107
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  108
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  109
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  110
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  111
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  112
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  113
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  114
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  115
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  116
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  117
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  118
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  119
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  120
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  121
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  122
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  123
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  124
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  125
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  126
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  127
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  128
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  129
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  130
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  131
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  132
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  133
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  134
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  135
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  136
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  137
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  138
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  139
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  140
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  141
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  142
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  143
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  144
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  145
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  146
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  147
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  148
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  149
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  150
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  151
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  152
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  153
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  154
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  155
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  156
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  157
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  158
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  159
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  160
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  161
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  162
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  163
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  164
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  165
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  166
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  167
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  168
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  169
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  170
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  171
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  172
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  173
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  174
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  175
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  176
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  177
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  178
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  179
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  180
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  181
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  182
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  183
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  184
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  185
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  186
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  187
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  188
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  189
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  190
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  191
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  192
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  193
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  194
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  195
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  196
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  197
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  198
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  199
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  200
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  201
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  202
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  203
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  204
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  205
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  206
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  207
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  208
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  209
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  210
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  211
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  212
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  213
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  214
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  215
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  216
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  217
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  218
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  219
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  220
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  221
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  222
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  223
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  224
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  225
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  226
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  227
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  228
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  229
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  230
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  231
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  232
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  233
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  234
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  235
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  236
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  237
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  238
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  239
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  240
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  241
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  242
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  243
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  244
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  245
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  246
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  247
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  248
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  249
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  250
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  251
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  252
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  253
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  254
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  255
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  256
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  257
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  258
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  259
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  260
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  261
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  262
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  263
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  264
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  265
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  266
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  267
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  268
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  269
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  270
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  271
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  272
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  273
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  274
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  275
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  276
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  277
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  278
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  279
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  280
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  281
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  282
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  283
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  284
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  285
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  286
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  287
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  288
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  289
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  290
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  291
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  292
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  293
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  294
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  295
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  296
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  297
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  298
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  299
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  300
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  301
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  302
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  303
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  304
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  305
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  306
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  307
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  308
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  309
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  310
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  311
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  312
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  313
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  314
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  315
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  316
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  317
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  318
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  319
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  320
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  321
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  322
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  323
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  324
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  325
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  326
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  327
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  328
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  329
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  330
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  331
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  332
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  333
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  334
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  335
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  336
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  337
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  338
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  339
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  340
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  341
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  342
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  343
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  344
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  345
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  346
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  347
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  348
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  349
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  350
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  351
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  352
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  353
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  354
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  355
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  356
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  357
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  358
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  359
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  360
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  361
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  362
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  363
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  364
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  365
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  366
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  367
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  368
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  369
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  370
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  371
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  372
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  373
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  374
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  375
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  376
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  377
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  378
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  379
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  380
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  381
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  382
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  383
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  384
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  385
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  386
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  387
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  388
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  389
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  390
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  391
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  392
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  393
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  394
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  395
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  396
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  397
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  398
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  399
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  400
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  401
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  402
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  403
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  404
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  405
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  406
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  407
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  408
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  409
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  410
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  411
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  412
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  413
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  414
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  415
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  416
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  417
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  418
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  419
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  420
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  421
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  422
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  423
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  424
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  425
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  426
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  427
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  428
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  429
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  430
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  431
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  432
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  433
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  434
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  435
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  436
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  437
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  438
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  439
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  440
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  441
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  442
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  443
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  444
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  445
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  446
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  447
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  448
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  449
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  450
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  451
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  452
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  453
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  454
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  455
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  456
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  457
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  458
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  459
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  460
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  461
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  462
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  463
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  464
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  465
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  466
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  467
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  468
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  469
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  470
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  471
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  472
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  473
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  474
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  475
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  476
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  477
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  478
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  479
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  480
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  481
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  482
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  483
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  484
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  485
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  486
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  487
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  488
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  489
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  490
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  491
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  492
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  493
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  494
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  495
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  496
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  497
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  498
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  499
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  500
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  501
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  502
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  503
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  504
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  505
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  506
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  507
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  508
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  509
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  510
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  511
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  512
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  513
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  514
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  515
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  516
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  517
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  518
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  519
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  520
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  521
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  522
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  523
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  524
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  525
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  526
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  527
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  528
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  529
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  530
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  531
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  532
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  533
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  534
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  535
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  536
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  537
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  538
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  539
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  540
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  541
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  542
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  543
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  544
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  545
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  546
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  547
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  548
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  549
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  550
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  551
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  552
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  553
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  554
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  555
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  556
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  557
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  558
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  559
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  560
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  561
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  562
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  563
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  564
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  565
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  566
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  567
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  568
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  569
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  570
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  571
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  572
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  573
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  574
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  575
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  576
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  577
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  578
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  579
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  580
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  581
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  582
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  583
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  584
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  585
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  586
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  587
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  588
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  589
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  590
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  591
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  592
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  593
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  594
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  595
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  596
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  597
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  598
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  599
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  600
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  601
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  602
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  603
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  604
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  605
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  606
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  607
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  608
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  609
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  610
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  611
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  612
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  613
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  614
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  615
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  616
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  617
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  618
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  619
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  620
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  621
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  622
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  623
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  624
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  625
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  626
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  627
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  628
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  629
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  630
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  631
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  632
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  633
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  634
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  635
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  636
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  637
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  638
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  639
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  640
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  641
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  642
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  643
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  644
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  645
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  646
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  647
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  648
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  649
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  650
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  651
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  652
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  653
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  654
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  655
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  656
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  657
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  658
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  659
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  660
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  661
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  662
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  663
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  664
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  665
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  666
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  667
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  668
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  669
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  670
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  671
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  672
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  673
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  674
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  675
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  676
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  677
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  678
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  679
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  680
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  681
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  682
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  683
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  684
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  685
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  686
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  687
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  688
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  689
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  690
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  691
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  692
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  693
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  694
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  695
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  696
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  697
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  698
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  699
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  700
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  701
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  702
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  703
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  704
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  705
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  706
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  707
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  708
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  709
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  710
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  711
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  712
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  713
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  714
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  715
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  716
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  717
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  718
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  719
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  720
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  721
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  722
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  723
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  724
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  725
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  726
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  727
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  728
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  729
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  730
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  731
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  732
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  733
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  734
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  735
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  736
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  737
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  738
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  739
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  740
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  741
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  742
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  743
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  744
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  745
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  746
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  747
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  748
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  749
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  750
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  751
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  752
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  753
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  754
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  755
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  756
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  757
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  758
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  759
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  760
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  761
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  762
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  763
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  764
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  765
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  766
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  767
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  768
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  769
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  770
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  771
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  772
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  773
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  774
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  775
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  776
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  777
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  778
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  779
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  780
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  781
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  782
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  783
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  784
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  785
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  786
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  787
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  788
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  789
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  790
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  791
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  792
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  793
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  794
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  795
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  796
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  797
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  798
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  799
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  800
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  801
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  802
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  803
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  804
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  805
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  806
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  807
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  808
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  809
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  810
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  811
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  812
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  813
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  814
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  815
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  816
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  817
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  818
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  819
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  820
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  821
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  822
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  823
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  824
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  825
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  826
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  827
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  828
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  829
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  830
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  831
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  832
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  833
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  834
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  835
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  836
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  837
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  838
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  839
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  840
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  841
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  842
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  843
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  844
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  845
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  846
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  847
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  848
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  849
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  850
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  851
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  852
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  853
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  854
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  855
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  856
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  857
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  858
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  859
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  860
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  861
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  862
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  863
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  864
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  865
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  866
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  867
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  868
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  869
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  870
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  871
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  872
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  873
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  874
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  875
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  876
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  877
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  878
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  879
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  880
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  881
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  882
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  883
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  884
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  885
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  886
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  887
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  888
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  889
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  890
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  891
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  892
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  893
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  894
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  895
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  896
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  897
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  898
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  899
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  900
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  901
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  902
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  903
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  904
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  905
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  906
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  907
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  908
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  909
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  910
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  911
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  912
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  913
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  914
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  915
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  916
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  917
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  918
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  919
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  920
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  921
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  922
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  923
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  924
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  925
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  926
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  927
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  928
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  929
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  930
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  931
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  932
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  933
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  934
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  935
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  936
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  937
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  938
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  939
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  940
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  941
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  942
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  943
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  944
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  945
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  946
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  947
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  948
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  949
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  950
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  951
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  952
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  953
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  954
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  955
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  956
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  957
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  958
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  959
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  960
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  961
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  962
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  963
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  964
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  965
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  966
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  967
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  968
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  969
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  970
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  971
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  972
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  973
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  974
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  975
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  976
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  977
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  978
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  979
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  980
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  981
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  982
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  983
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  984
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  985
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  986
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  987
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  988
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  989
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  990
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  991
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  992
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  993
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  994
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  995
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  996
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  997
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  998
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  999
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1000
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1001
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1002
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1003
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1004
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1005
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1006
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1007
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1008
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1009
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1010
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1011
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1012
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1013
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1014
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1015
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1016
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1017
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1018
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1019
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1020
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1021
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1022
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1023
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1024
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1025
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1026
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1027
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1028
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1029
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1030
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1031
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1032
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1033
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1034
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1035
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1036
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1037
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1038
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1039
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1040
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1041
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1042
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1043
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1044
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1045
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1046
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1047
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1048
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1049
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1050
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1051
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1052
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1053
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1054
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1055
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1056
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1057
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1058
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1059
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1060
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1061
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1062
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1063
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1064
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1065
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1066
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1067
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1068
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1069
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1070
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1071
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1072
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1073
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1074
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1075
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1076
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1077
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1078
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1079
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1080
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1081
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1082
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1083
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1084
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1085
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1086
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1087
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1088
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1089
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1090
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1091
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1092
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1093
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1094
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1095
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1096
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1097
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1098
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1099
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1100
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1101
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1102
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1103
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1104
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1105
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1106
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1107
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1108
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1109
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1110
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1111
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1112
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1113
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1114
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1115
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1116
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1117
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1118
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1119
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1120
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1121
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1122
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1123
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1124
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1125
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1126
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1127
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1128
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1129
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1130
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1131
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1132
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1133
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1134
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1135
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1136
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1137
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1138
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1139
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1140
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1141
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1142
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1143
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1144
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1145
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1146
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1147
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1148
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1149
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1150
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1151
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1152
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1153
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1154
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1155
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1156
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1157
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1158
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1159
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1160
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1161
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1162
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1163
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1164
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1165
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1166
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1167
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1168
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1169
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1170
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1171
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1172
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1173
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1174
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1175
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1176
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1177
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1178
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1179
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1180
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1181
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1182
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1183
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1184
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1185
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1186
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1187
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1188
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1189
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1190
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1191
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1192
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1193
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1194
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1195
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1196
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1197
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1198
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1199
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1200
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1201
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1202
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1203
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1204
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1205
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1206
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1207
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1208
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1209
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1210
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1211
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1212
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1213
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1214
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1215
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1216
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1217
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1218
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1219
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1220
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1221
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1222
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1223
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1224
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1225
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1226
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1227
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1228
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1229
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1230
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1231
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1232
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1233
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1234
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1235
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1236
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1237
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1238
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1239
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1240
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1241
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1242
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1243
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1244
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1245
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1246
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1247
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1248
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1249
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1250
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1251
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1252
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1253
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1254
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1255
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1256
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1257
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1258
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1259
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1260
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1261
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1262
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1263
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1264
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1265
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1266
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1267
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1268
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1269
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1270
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1271
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1272
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1273
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1274
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1275
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1276
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1277
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1278
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1279
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1280
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1281
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1282
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1283
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1284
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1285
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1286
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1287
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1288
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1289
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1290
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1291
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1292
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1293
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1294
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1295
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1296
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1297
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1298
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1299
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1300
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1301
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1302
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1303
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1304
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1305
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1306
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1307
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1308
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1309
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1310
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1311
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1312
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1313
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1314
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1315
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1316
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1317
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1318
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1319
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1320
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1321
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1322
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1323
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1324
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1325
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1326
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1327
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1328
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1329
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1330
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1331
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1332
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1333
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1334
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1335
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1336
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1337
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1338
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1339
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1340
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1341
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1342
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1343
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1344
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1345
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1346
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1347
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1348
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1349
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1350
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1351
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1352
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1353
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1354
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1355
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1356
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1357
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1358
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1359
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1360
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1361
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1362
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1363
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1364
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1365
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1366
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1367
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1368
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1369
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1370
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1371
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1372
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1373
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1374
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1375
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1376
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1377
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1378
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1379
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1380
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1381
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1382
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1383
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1384
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1385
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1386
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1387
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1388
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1389
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1390
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1391
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1392
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1393
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1394
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1395
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1396
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1397
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1398
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1399
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1400
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1401
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1402
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1403
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1404
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1405
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1406
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1407
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1408
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1409
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1410
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1411
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1412
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1413
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1414
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1415
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1416
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1417
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1418
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1419
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1420
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1421
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1422
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1423
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1424
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1425
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1426
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1427
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1428
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1429
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1430
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1431
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1432
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1433
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1434
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1435
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1436
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1437
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1438
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1439
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1440
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1441
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1442
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1443
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1444
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1445
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1446
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1447
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1448
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1449
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1450
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1451
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1452
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1453
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1454
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1455
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1456
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1457
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1458
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1459
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1460
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1461
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1462
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1463
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1464
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1465
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1466
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1467
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1468
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1469
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1470
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1471
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1472
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1473
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1474
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1475
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1476
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1477
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1478
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1479
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1480
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1481
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1482
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1483
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1484
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1485
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1486
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1487
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1488
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1489
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1490
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1491
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1492
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1493
+Display Middle C!
+MIDDLE C ~ # !
+Note: 2 F-base: 234, Clock-divider:    0
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:    1
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:    2
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:    3
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:    4
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:    5
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:    6
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:    7
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:    8
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:    9
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   10
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   11
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   12
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   13
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   14
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   15
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   16
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   17
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   18
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   19
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   20
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   21
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   22
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   23
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   24
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   25
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   26
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   27
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   28
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   29
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   30
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   31
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   32
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   33
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   34
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   35
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   36
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   37
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   38
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   39
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   40
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   41
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   42
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   43
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   44
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   45
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   46
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   47
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   48
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   49
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   50
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   51
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   52
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   53
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   54
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   55
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   56
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   57
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   58
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   59
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   60
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   61
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   62
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   63
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   64
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   65
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   66
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   67
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   68
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   69
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   70
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   71
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   72
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   73
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   74
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   75
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   76
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   77
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   78
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   79
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   80
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   81
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   82
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   83
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   84
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   85
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   86
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   87
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   88
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   89
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   90
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   91
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   92
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   93
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   94
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   95
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   96
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   97
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   98
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   99
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  100
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  101
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  102
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  103
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  104
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  105
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  106
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  107
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  108
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  109
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  110
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  111
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  112
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  113
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  114
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  115
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  116
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  117
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  118
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  119
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  120
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  121
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  122
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  123
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  124
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  125
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  126
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  127
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  128
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  129
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  130
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  131
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  132
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  133
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  134
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  135
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  136
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  137
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  138
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  139
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  140
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  141
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  142
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  143
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  144
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  145
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  146
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  147
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  148
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  149
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  150
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  151
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  152
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  153
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  154
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  155
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  156
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  157
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  158
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  159
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  160
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  161
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  162
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  163
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  164
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  165
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  166
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  167
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  168
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  169
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  170
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  171
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  172
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  173
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  174
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  175
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  176
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  177
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  178
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  179
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  180
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  181
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  182
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  183
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  184
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  185
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  186
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  187
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  188
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  189
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  190
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  191
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  192
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  193
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  194
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  195
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  196
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  197
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  198
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  199
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  200
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  201
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  202
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  203
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  204
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  205
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  206
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  207
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  208
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  209
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  210
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  211
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  212
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  213
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  214
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  215
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  216
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  217
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  218
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  219
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  220
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  221
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  222
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  223
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  224
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  225
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  226
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  227
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  228
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  229
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  230
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  231
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  232
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  233
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  234
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  235
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  236
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  237
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  238
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  239
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  240
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  241
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  242
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  243
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  244
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  245
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  246
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  247
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  248
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  249
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  250
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  251
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  252
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  253
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  254
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  255
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  256
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  257
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  258
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  259
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  260
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  261
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  262
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  263
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  264
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  265
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  266
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  267
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  268
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  269
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  270
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  271
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  272
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  273
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  274
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  275
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  276
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  277
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  278
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  279
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  280
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  281
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  282
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  283
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  284
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  285
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  286
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  287
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  288
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  289
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  290
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  291
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  292
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  293
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  294
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  295
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  296
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  297
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  298
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  299
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  300
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  301
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  302
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  303
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  304
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  305
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  306
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  307
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  308
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  309
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  310
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  311
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  312
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  313
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  314
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  315
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  316
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  317
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  318
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  319
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  320
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  321
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  322
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  323
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  324
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  325
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  326
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  327
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  328
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  329
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  330
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  331
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  332
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  333
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  334
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  335
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  336
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  337
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  338
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  339
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  340
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  341
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  342
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  343
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  344
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  345
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  346
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  347
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  348
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  349
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  350
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  351
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  352
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  353
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  354
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  355
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  356
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  357
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  358
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  359
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  360
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  361
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  362
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  363
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  364
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  365
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  366
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  367
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  368
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  369
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  370
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  371
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  372
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  373
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  374
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  375
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  376
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  377
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  378
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  379
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  380
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  381
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  382
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  383
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  384
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  385
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  386
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  387
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  388
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  389
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  390
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  391
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  392
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  393
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  394
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  395
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  396
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  397
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  398
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  399
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  400
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  401
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  402
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  403
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  404
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  405
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  406
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  407
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  408
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  409
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  410
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  411
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  412
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  413
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  414
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  415
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  416
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  417
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  418
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  419
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  420
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  421
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  422
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  423
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  424
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  425
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  426
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  427
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  428
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  429
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  430
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  431
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  432
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  433
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  434
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  435
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  436
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  437
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  438
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  439
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  440
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  441
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  442
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  443
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  444
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  445
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  446
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  447
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  448
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  449
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  450
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  451
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  452
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  453
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  454
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  455
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  456
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  457
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  458
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  459
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  460
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  461
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  462
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  463
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  464
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  465
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  466
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  467
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  468
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  469
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  470
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  471
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  472
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  473
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  474
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  475
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  476
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  477
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  478
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  479
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  480
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  481
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  482
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  483
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  484
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  485
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  486
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  487
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  488
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  489
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  490
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  491
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  492
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  493
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  494
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  495
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  496
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  497
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  498
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  499
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  500
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  501
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  502
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  503
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  504
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  505
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  506
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  507
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  508
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  509
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  510
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  511
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  512
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  513
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  514
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  515
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  516
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  517
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  518
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  519
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  520
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  521
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  522
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  523
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  524
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  525
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  526
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  527
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  528
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  529
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  530
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  531
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  532
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  533
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  534
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  535
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  536
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  537
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  538
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  539
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  540
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  541
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  542
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  543
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  544
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  545
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  546
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  547
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  548
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  549
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  550
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  551
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  552
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  553
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  554
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  555
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  556
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  557
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  558
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  559
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  560
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  561
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  562
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  563
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  564
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  565
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  566
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  567
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  568
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  569
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  570
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  571
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  572
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  573
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  574
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  575
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  576
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  577
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  578
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  579
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  580
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  581
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  582
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  583
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  584
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  585
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  586
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  587
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  588
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  589
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  590
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  591
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  592
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  593
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  594
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  595
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  596
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  597
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  598
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  599
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  600
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  601
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  602
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  603
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  604
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  605
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  606
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  607
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  608
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  609
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  610
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  611
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  612
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  613
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  614
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  615
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  616
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  617
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  618
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  619
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  620
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  621
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  622
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  623
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  624
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  625
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  626
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  627
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  628
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  629
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  630
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  631
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  632
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  633
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  634
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  635
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  636
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  637
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  638
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  639
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  640
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  641
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  642
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  643
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  644
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  645
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  646
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  647
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  648
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  649
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  650
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  651
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  652
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  653
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  654
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  655
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  656
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  657
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  658
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  659
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  660
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  661
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  662
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  663
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  664
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  665
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  666
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  667
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  668
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  669
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  670
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  671
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  672
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  673
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  674
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  675
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  676
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  677
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  678
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  679
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  680
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  681
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  682
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  683
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  684
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  685
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  686
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  687
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  688
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  689
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  690
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  691
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  692
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  693
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  694
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  695
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  696
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  697
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  698
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  699
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  700
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  701
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  702
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  703
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  704
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  705
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  706
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  707
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  708
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  709
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  710
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  711
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  712
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  713
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  714
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  715
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  716
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  717
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  718
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  719
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  720
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  721
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  722
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  723
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  724
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  725
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  726
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  727
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  728
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  729
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  730
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  731
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  732
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  733
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  734
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  735
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  736
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  737
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  738
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  739
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  740
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  741
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  742
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  743
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  744
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  745
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  746
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  747
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  748
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  749
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  750
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  751
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  752
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  753
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  754
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  755
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  756
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  757
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  758
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  759
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  760
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  761
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  762
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  763
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  764
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  765
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  766
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  767
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  768
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  769
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  770
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  771
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  772
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  773
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  774
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  775
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  776
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  777
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  778
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  779
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  780
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  781
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  782
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  783
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  784
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  785
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  786
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  787
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  788
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  789
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  790
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  791
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  792
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  793
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  794
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  795
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  796
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  797
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  798
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  799
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  800
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  801
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  802
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  803
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  804
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  805
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  806
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  807
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  808
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  809
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  810
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  811
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  812
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  813
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  814
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  815
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  816
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  817
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  818
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  819
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  820
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  821
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  822
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  823
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  824
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  825
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  826
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  827
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  828
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  829
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  830
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  831
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  832
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  833
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  834
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  835
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  836
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  837
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  838
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  839
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  840
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  841
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  842
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  843
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  844
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  845
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  846
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  847
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  848
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  849
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  850
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  851
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  852
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  853
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  854
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  855
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  856
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  857
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  858
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  859
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  860
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  861
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  862
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  863
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  864
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  865
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  866
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  867
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  868
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  869
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  870
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  871
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  872
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  873
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  874
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  875
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  876
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  877
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  878
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  879
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  880
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  881
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  882
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  883
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  884
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  885
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  886
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  887
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  888
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  889
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  890
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  891
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  892
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  893
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  894
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  895
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  896
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  897
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  898
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  899
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  900
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  901
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  902
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  903
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  904
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  905
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  906
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  907
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  908
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  909
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  910
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  911
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  912
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  913
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  914
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  915
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  916
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  917
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  918
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  919
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  920
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  921
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  922
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  923
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  924
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  925
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  926
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  927
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  928
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  929
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  930
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  931
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  932
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  933
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  934
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  935
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  936
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  937
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  938
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  939
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  940
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  941
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  942
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  943
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  944
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  945
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  946
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  947
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  948
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  949
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  950
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  951
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  952
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  953
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  954
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  955
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  956
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  957
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  958
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  959
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  960
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  961
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  962
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  963
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  964
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  965
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  966
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  967
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  968
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  969
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  970
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  971
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  972
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  973
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  974
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  975
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  976
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  977
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  978
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  979
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  980
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  981
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  982
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  983
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  984
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  985
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  986
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  987
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  988
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  989
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  990
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  991
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  992
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  993
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  994
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  995
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  996
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  997
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  998
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  999
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1000
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1001
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1002
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1003
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1004
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1005
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1006
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1007
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1008
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1009
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1010
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1011
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1012
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1013
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1014
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1015
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1016
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1017
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1018
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1019
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1020
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1021
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1022
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1023
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1024
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1025
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1026
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1027
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1028
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1029
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1030
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1031
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1032
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1033
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1034
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1035
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1036
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1037
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1038
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1039
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1040
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1041
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1042
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1043
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1044
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1045
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1046
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1047
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1048
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1049
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1050
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1051
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1052
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1053
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1054
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1055
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1056
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1057
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1058
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1059
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1060
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1061
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1062
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1063
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1064
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1065
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1066
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1067
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1068
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1069
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1070
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1071
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1072
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1073
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1074
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1075
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1076
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1077
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1078
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1079
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1080
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1081
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1082
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1083
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1084
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1085
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1086
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1087
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1088
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1089
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1090
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1091
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1092
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1093
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1094
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1095
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1096
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1097
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1098
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1099
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1100
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1101
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1102
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1103
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1104
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1105
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1106
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1107
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1108
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1109
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1110
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1111
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1112
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1113
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1114
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1115
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1116
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1117
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1118
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1119
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1120
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1121
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1122
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1123
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1124
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1125
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1126
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1127
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1128
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1129
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1130
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1131
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1132
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1133
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1134
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1135
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1136
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1137
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1138
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1139
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1140
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1141
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1142
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1143
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1144
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1145
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1146
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1147
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1148
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1149
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1150
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1151
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1152
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1153
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1154
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1155
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1156
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1157
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1158
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1159
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1160
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1161
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1162
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1163
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1164
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1165
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1166
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1167
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1168
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1169
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1170
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1171
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1172
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1173
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1174
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1175
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1176
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1177
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1178
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1179
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1180
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1181
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1182
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1183
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1184
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1185
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1186
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1187
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1188
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1189
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1190
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1191
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1192
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1193
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1194
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1195
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1196
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1197
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1198
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1199
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1200
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1201
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1202
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1203
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1204
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1205
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1206
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1207
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1208
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1209
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1210
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1211
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1212
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1213
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1214
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1215
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1216
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1217
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1218
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1219
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1220
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1221
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1222
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1223
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1224
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1225
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1226
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1227
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1228
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1229
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1230
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1231
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1232
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1233
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1234
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1235
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1236
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1237
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1238
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1239
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1240
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1241
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1242
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1243
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1244
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1245
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1246
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1247
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1248
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1249
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1250
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1251
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1252
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1253
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1254
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1255
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1256
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1257
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1258
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1259
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1260
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1261
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1262
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1263
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1264
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1265
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1266
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1267
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1268
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1269
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1270
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1271
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1272
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1273
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1274
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1275
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1276
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1277
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1278
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1279
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1280
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1281
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1282
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1283
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1284
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1285
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1286
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1287
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1288
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1289
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1290
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1291
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1292
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1293
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1294
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1295
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1296
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1297
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1298
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1299
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1300
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1301
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1302
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1303
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1304
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1305
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1306
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1307
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1308
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1309
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1310
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1311
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1312
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1313
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1314
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1315
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1316
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1317
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1318
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1319
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1320
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1321
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1322
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1323
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1324
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1325
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1326
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1327
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1328
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1329
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1330
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1331
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1332
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1333
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1334
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1335
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1336
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1337
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1338
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1339
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1340
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1341
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1342
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1343
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1344
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1345
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1346
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1347
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1348
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1349
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1350
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1351
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1352
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1353
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1354
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1355
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1356
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1357
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1358
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1359
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1360
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1361
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1362
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1363
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1364
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1365
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1366
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1367
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1368
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1369
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1370
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1371
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1372
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1373
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1374
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1375
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1376
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1377
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1378
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1379
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1380
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1381
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1382
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1383
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1384
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1385
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1386
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1387
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1388
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1389
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1390
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1391
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1392
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1393
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1394
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1395
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1396
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1397
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1398
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1399
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1400
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1401
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1402
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1403
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1404
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1405
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1406
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1407
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1408
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1409
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1410
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1411
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1412
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1413
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1414
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1415
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1416
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1417
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1418
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1419
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1420
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1421
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1422
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1423
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1424
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1425
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1426
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1427
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1428
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1429
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1430
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1431
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1432
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1433
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1434
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1435
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1436
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1437
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1438
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1439
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1440
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1441
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1442
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1443
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1444
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1445
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1446
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1447
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1448
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1449
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1450
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1451
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1452
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1453
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1454
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1455
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1456
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1457
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1458
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1459
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1460
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1461
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1462
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1463
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1464
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1465
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1466
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1467
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1468
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1469
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1470
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1471
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1472
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1473
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1474
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1475
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1476
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1477
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1478
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1479
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1480
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1481
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1482
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1483
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1484
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1485
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1486
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1487
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1488
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1489
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider: 1490
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider: 1491
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider: 1492
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider: 1493
+Display Middle C!
+MIDDLE C ~ # !
+Note: 0 F-base: 234, Clock-divider:    0
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:    1
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:    2
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:    3
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:    4
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:    5
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:    6
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:    7
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:    8
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:    9
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   10
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   11
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   12
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   13
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   14
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   15
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   16
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   17
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   18
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   19
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   20
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   21
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   22
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   23
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   24
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   25
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   26
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   27
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   28
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   29
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   30
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   31
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   32
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   33
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   34
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   35
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   36
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   37
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   38
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   39
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   40
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   41
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   42
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   43
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   44
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   45
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   46
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   47
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   48
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   49
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   50
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   51
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   52
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   53
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   54
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   55
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   56
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   57
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   58
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   59
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   60
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   61
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   62
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   63
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   64
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   65
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   66
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   67
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   68
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   69
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   70
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   71
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   72
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   73
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   74
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   75
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   76
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   77
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   78
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   79
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   80
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   81
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   82
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   83
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   84
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   85
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   86
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   87
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   88
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   89
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   90
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   91
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   92
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   93
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   94
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   95
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:   96
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:   97
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:   98
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:   99
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  100
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  101
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  102
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  103
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  104
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  105
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  106
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  107
+Display Middle C!
+Note: 0 F-base: 234, Clock-divider:  108
+Display Middle C!
+Note: 1 F-base: 234, Clock-divider:  109
+Display Middle C!
+Note: 2 F-base: 234, Clock-divider:  110
+Display Middle C!
+Note: 3 F-base: 234, Clock-divider:  111
+Display Middle C!

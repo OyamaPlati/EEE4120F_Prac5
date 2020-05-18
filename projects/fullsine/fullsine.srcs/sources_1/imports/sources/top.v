@@ -5,6 +5,7 @@ module top(
     input  CLK100MHZ,
     input [7:0] SW,
     input BTNL,
+    
     output AUD_PWM, 
     output AUD_SD,
     output [2:0] LED
@@ -63,6 +64,12 @@ module top(
             note_switch = 0;
         end
         
+        // Loop to change the output note IF we're in the arp state
+        
+        if (arp_switch) note = note + 1;
+            
+        // FSM to switch between notes, otherwise just output the base note.
+        
         // Count to 1493 to produce a tone around middle C
         //clkdiv <= ( clkdiv >= 1493) ? 0 : clkdiv + 1;
         // Output divider to control frequency
@@ -99,12 +106,7 @@ module top(
                     addra <= addra +1;
                 end
             end
-        endcase;
-         
-        // Loop to change the output note IF we're in the arp state
-        
-        // FSM to switch between notes, otherwise just output the base note.
-        
+        endcase
     end
     
     assign AUD_SD = 1'b1;  // Enable audio out

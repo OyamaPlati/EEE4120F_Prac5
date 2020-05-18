@@ -22,7 +22,7 @@ module top_module_tb();
     // Initialise
     initial begin
         CLK100MHZ = 0;
-        SW = 0;
+        SW[7:0] = 0;
         BTNL = 0;
     end
        
@@ -34,7 +34,7 @@ module top_module_tb();
         #10 BTNL <= ~BTNL; 
     end
     
-    /*always begin
+    always begin
         #15 SW <= SW + 1;
-    end*/
+    end
 endmodule

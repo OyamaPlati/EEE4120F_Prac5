@@ -1,8 +1,8 @@
 `timescale 1ns / 1ps
 module SS_Driver(
-    input Clk, Reset,
+    input Clk, Reset, PWM,
     input [3:0] BCD3, BCD2, BCD1, BCD0, // Binary-coded decimal input
-    output reg [3:0] SegmentDrivers = 0, // Digit drivers (active low)
+    output reg [3:0] SegmentDrivers, // Digit drivers (active low)
     output reg [7:0] SevenSegment // Segments (active low)
 );
 
@@ -14,7 +14,7 @@ BCD_Decoder BCD_Decoder2 (BCD2, SS[2]);
 BCD_Decoder BCD_Decoder3 (BCD3, SS[3]); 
 
 // Counter to reduce the 100 MHz clock to 762.939 Hz (100 MHz / 2^17)
-reg [16:0]Count = 0;
+reg [3:0]Count = 0; //17 bits
 
 // Scroll through the digits, switching one on at a time
 always @(posedge Clk) begin
@@ -25,10 +25,11 @@ end
 
 //------------------------------------------------------------------------------
 always @(*) begin // This describes a purely combinational circuit
+    $display("PWM: %b \n", PWM);
     SevenSegment[7] <= 1'b1; // Decimal point always off
     if (Reset) begin
         SevenSegment[6:0] <= 7'h7F; // All off during Reset
-    end else begin // if need to turn the seven segment on or not. if (pwm_out)
+    end else if(PWM) begin // if need to turn the seven segment on or not. if (pwm_out)
         case(~SegmentDrivers) // Connect the correct signals,
             4'h1 : SevenSegment[6:0] <= ~SS[0]; // depending on which digit is on at
             4'h2 : SevenSegment[6:0] <= ~SS[1]; // this point

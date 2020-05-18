@@ -9,9 +9,9 @@ module PWM(
     reg [16:0] Count;
     
     always @(posedge clk) begin
+        $display("PWMin: %b       PEM_OUT %b \n", pwm_in,pwm_out);
         Count <= Count + 1'b1;
         if (Count <= (pwm_in << 9)) pwm_out <= 1;	
         else pwm_out <= 0;
-    end
-    
+    end 
 endmodule

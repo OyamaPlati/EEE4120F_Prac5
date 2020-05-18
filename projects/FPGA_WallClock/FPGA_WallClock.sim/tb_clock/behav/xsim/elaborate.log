@@ -3,12 +3,15 @@ Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
 Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 04670a3372b74f3e95bbe94f129010fb --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_clock_behav xil_defaultlib.tb_clock xil_defaultlib.glbl -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 1 for port 'PWM' [C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/FPGA_WallClock/FPGA_WallClock.srcs/sources_1/imports/sources/Clock.v:49]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'SegmentDrivers' [C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/FPGA_WallClock/FPGA_WallClock.srcs/sources_1/imports/sources/Clock.v:50]
 Completed static elaboration
 Starting simulation data flow analysis
 Completed simulation data flow analysis
 Time Resolution for simulation is 1ps
 Compiling module xil_defaultlib.Delay_Reset
 Compiling module xil_defaultlib.Debounce
+Compiling module xil_defaultlib.PWM
 Compiling module xil_defaultlib.BCD_Decoder
 Compiling module xil_defaultlib.SS_Driver
 Compiling module xil_defaultlib.Clock

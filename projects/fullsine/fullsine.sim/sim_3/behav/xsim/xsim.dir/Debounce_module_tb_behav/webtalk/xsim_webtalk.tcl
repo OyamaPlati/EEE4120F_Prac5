@@ -1,6 +1,6 @@
 webtalk_init -webtalk_dir C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim/xsim.dir/Debounce_module_tb_behav/webtalk/
 webtalk_register_client -client project
-webtalk_add_data -client project -key date_generated -value "Thu May 14 21:35:36 2020" -context "software_version_and_target_device"
+webtalk_add_data -client project -key date_generated -value "Sat May 16 17:35:55 2020" -context "software_version_and_target_device"
 webtalk_add_data -client project -key product_version -value "XSIM v2019.1 (64-bit)" -context "software_version_and_target_device"
 webtalk_add_data -client project -key build_version -value "2552052" -context "software_version_and_target_device"
 webtalk_add_data -client project -key os_platform -value "WIN64" -context "software_version_and_target_device"
@@ -14,7 +14,7 @@ webtalk_add_data -client project -key target_package -value "not_applicable" -co
 webtalk_add_data -client project -key target_speed -value "not_applicable" -context "software_version_and_target_device"
 webtalk_add_data -client project -key random_id -value "abb2563e-c36d-4184-ae2d-f5699b674b62" -context "software_version_and_target_device"
 webtalk_add_data -client project -key project_id -value "f78972bd002f49ddbc2db6eec569af9a" -context "software_version_and_target_device"
-webtalk_add_data -client project -key project_iteration -value "11" -context "software_version_and_target_device"
+webtalk_add_data -client project -key project_iteration -value "26" -context "software_version_and_target_device"
 webtalk_add_data -client project -key os_name -value "Windows Server 2016 or Windows 10" -context "user_environment"
 webtalk_add_data -client project -key os_release -value "major release  (build 9200)" -context "user_environment"
 webtalk_add_data -client project -key cpu_name -value "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz" -context "user_environment"
@@ -26,7 +26,7 @@ webtalk_add_data -client xsim -key Command -value "xsim" -context "xsim\\command
 webtalk_add_data -client xsim -key trace_waveform -value "true" -context "xsim\\usage"
 webtalk_add_data -client xsim -key runtime -value "1 us" -context "xsim\\usage"
 webtalk_add_data -client xsim -key iteration -value "1" -context "xsim\\usage"
-webtalk_add_data -client xsim -key Simulation_Time -value "0.09_sec" -context "xsim\\usage"
-webtalk_add_data -client xsim -key Simulation_Memory -value "5932_KB" -context "xsim\\usage"
-webtalk_transmit -clientid 93897397 -regid "" -xml C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim/xsim.dir/Debounce_module_tb_behav/webtalk/usage_statistics_ext_xsim.xml -html C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim/xsim.dir/Debounce_module_tb_behav/webtalk/usage_statistics_ext_xsim.html -wdm C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim/xsim.dir/Debounce_module_tb_behav/webtalk/usage_statistics_ext_xsim.wdm -intro "<H3>XSIM Usage Report</H3><BR>"
+webtalk_add_data -client xsim -key Simulation_Time -value "0.08_sec" -context "xsim\\usage"
+webtalk_add_data -client xsim -key Simulation_Memory -value "5964_KB" -context "xsim\\usage"
+webtalk_transmit -clientid 3420808613 -regid "" -xml C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim/xsim.dir/Debounce_module_tb_behav/webtalk/usage_statistics_ext_xsim.xml -html C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim/xsim.dir/Debounce_module_tb_behav/webtalk/usage_statistics_ext_xsim.html -wdm C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullsine/fullsine.sim/sim_3/behav/xsim/xsim.dir/Debounce_module_tb_behav/webtalk/usage_statistics_ext_xsim.wdm -intro "<H3>XSIM Usage Report</H3><BR>"
 webtalk_terminate

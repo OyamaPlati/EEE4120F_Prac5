@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun May 17 18:57:54 2020
+# Process ID: 5632
+# Current directory: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullWave/fullWave.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullWave/fullWave.runs/impl_1/top.vdi
+# Journal file: C:/Users/Oyama Plati/Downloads/EEE2020/EEE4120F/FPGA/projects/fullWave/fullWave.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace

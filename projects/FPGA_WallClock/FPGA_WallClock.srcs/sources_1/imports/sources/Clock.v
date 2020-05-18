@@ -8,6 +8,7 @@ module Clock(
         input   BTNU,       //Up -- increment hours
         input   BTNR,       //Right -- increment minutes
         input   BTNC,       //Center -- reset button
+        input   [7:0] SW,    //Switches
         
         // Outputs
         // Seconds display output
@@ -30,61 +31,58 @@ module Clock(
 	Debounce DebounceM(CLK100MHZ, BTNR, MButton);
 	Debounce DebounceH(CLK100MHZ, BTNU, HButton);
 	
+	//Set up PWM
+    wire pwm_out;
+    PWM pwm (CLK100MHZ, SW, pwm_out);
+	
 	// registers for storing the time
-    reg [3:0]hours1=4'd0;
-	reg [3:0]hours2=4'd0;
-	reg [3:0]mins1=4'd0;
-	reg [3:0]mins2=4'd0;
-	reg [5:0]secs=6'd0;
+    reg [3:0] hours1     = 4'd0;
+	reg [3:0] hours2     = 4'd0;
+	reg [3:0] mins1      = 4'd0;
+	reg [3:0] mins2      = 4'd0;
+	reg [5:0] secs       = 6'd0;
     
 	// Initialize seven segment
 	// You will need to change some signals depending on you constraints
 	SS_Driver SS_Driver1(
 		CLK100MHZ, Reset,
-		hours2, hours1, mins2, mins1, // Use temporary test values before adding hours2, hours1, mins2, mins1
+		hours2, hours1, mins2, mins1,
 		SegmentDrivers, SevenSegment
 	);
 	
 	// Display the seconds on the LEDs
 	assign LED [5:0] = secs [5:0];
 	
+	//keeps track of 'real' time
+	reg [5:0] rsec     = 0;
+	reg [5:0] rmin     = 36;
+	reg [4:0] rhour    = 16;
+	
 	//The main logic
+	//Responsible for incrementing time using 'real' time variables
 	always @(posedge CLK100MHZ) begin
-        // Block to let time run continuously
-        if(secs <= 6'd59) begin
-            // Current Time
-            // $display("Hours = %d : %d . Minutes = %d : %d . secs = %d\n", hours2, hours1, mins2, mins1, secs); 
-            secs <= secs + 1'b1;
+        
+        if( rsec < 59) begin
+            rsec <= rsec +1;
         end
-        else begin
-            secs <= 6'd0;
-            mins1 <= mins1 + 1'b1;
-            if (mins1 >= 9) begin
-                mins1 <= mins1 % 10;
-                mins2 <= (mins2 + 1'b1) % 6;
+        else begin                                  // overflow seconds
+            rmin <= rmin+1;
+            rsec <=0;
+            if( rmin == 59) begin                   //Overflow min  
+                rhour <=rhour+1;
+                rmin <=0;
+                if( rhour == 23) begin              // reset hour back to 00
+                    rhour   <= 0;
+                end
             end
         end
-        
-        if(mins2 >= 4'd5 && mins1 >= 4'd9) begin
-            mins2 <= 4'd0;
-            mins1 <= 4'd0;
-            hours1 <= hours1 + 1'b1;
-            if (hours1 >= 9) begin
-                hours1 <= hours1 % 10;
-                hours2 <= (hours2 + 1'b1) % 3;
-            end
-        end
-        
-        if(hours2 >= 4'd2 && hours1 >= 4'd3) begin
-            hours2 <= 4'd0;
-            hours1 <= 4'd0;
-        end    
 	end
 	
 	// Block to set the current time
 	always @(posedge CLK100MHZ) begin 
 	   // Increment the hour 
 		if(HButton == 1'b1) begin // If increment push button (BTNU) is pressed 
+		     // $display("Hours INCREMENT");
             if(hours2 >= 4'd2 && hours1 >= 4'd4) begin
                 hours2 <= 4'd0;
                 hours1 <= 4'd0;
@@ -93,16 +91,42 @@ module Clock(
             end
         end
 	end
-	// Block to set the current time
+	
+	// Block to split 'real' time into digits
 	always @(posedge CLK100MHZ) begin 
-	   // Increment the minute
-		if(MButton == 1'b1) begin // If increment push button (BTNR) is pressed 
-            if(mins2 >= 4'd5 && mins1 >= 4'd9) begin
-                mins2 <= 4'd0;
-                mins1 <= 4'd0;
-            end else begin
-                mins1 <= (mins1 + 1'b1) % 10;
+	   
+	   //$display("Hours = %d : %d . Minutes = %d : %d . secs = %d\n", hours2, hours1, mins2, mins1, secs); 
+       hours2  <= (rhour-rhour%10)/10;
+       hours1  <= rhour%10;
+       mins2   <= (rmin -rmin%10)/10;
+       mins1   <= rmin%10;
+       secs    <= (rsec%3600)%60; 
+	end
+	
+	// Increments the rhour by 1 on button press
+	always @(posedge CLK100MHZ) begin 
+	   // Increment the hour 
+		if(HButton == 1'b1) begin // If increment push button (BTNU) is pressed 
+		$display("Hours button pressed\n"); 
+            rhour <= rhour+1;
+            if( rhour == 23) begin              // reset to 00:00:00
+                rsec    <= 0;
+                rmin    <= 0;
+                rhour   <= 0;
             end
         end
 	end
+	
+	// Increments the rmin by 1 on button press
+	always @(posedge CLK100MHZ) begin 
+	   // Increment the minute
+		if(MButton == 1'b1) begin // If increment push button (BTNR) is pressed 
+		$display("min button pressed\n"); 
+            rmin <= rmin+1;
+            if( rmin == 59) begin                   //Overflow min  
+                rmin <=0;
+            end
+        end
+	end
+	
 endmodule

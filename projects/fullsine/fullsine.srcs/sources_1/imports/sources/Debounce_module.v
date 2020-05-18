@@ -1,31 +1,29 @@
 `timescale 1ns / 1ps
 
 module Debounce_module(
-        input clk,		//input clock
-        input Button,  //input reset signal (external button)
-        output reg Flag //output reset signal (delayed)
+        input clk, 
+        input button,
+        output reg out
     );
-    //--------------------------------------------
-    reg previous_state;
-    reg [21:0]Count; //assume count is null on FPGA configuration
     
+    reg previous_state;
+    reg [14:0]Count = 0; //assume count is null on FPGA configuration
+ 
     //--------------------------------------------
     always @(posedge clk) begin  	//activates every clock edge
-      //previous_state <= Button;		// localise the reset signal
-      if (Button && Button != previous_state && &Count) begin		// reset block
-         Flag <= 1'b1;					// reset the output to 1
-         Count <= 0;
+     //previous_state <= Button;		// localise the reset signal
+      if (button && button != previous_state && Count == 0) begin		// reset block
+        out <= 1'b1;					// reset the output to 1
+         Count <= 1;
          previous_state <= 1;
       end 
-      else if (Button && Button != previous_state) begin
-         Flag <= 1'b0;
+      else if (button && button != previous_state) begin
+         out <= 1'b0;
          Count <= Count + 1'b1;
       end 
       else begin
-         Flag <= 1'b0;
-         previous_state <= Button;
-      end
-    
-    end //always
-     //--------------------------------------------
+         out <= 1'b0;
+         previous_state <= button;
+      end   
+    end
 endmodule

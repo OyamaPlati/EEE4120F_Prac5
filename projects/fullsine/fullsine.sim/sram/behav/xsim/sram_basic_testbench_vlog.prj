@@ -1,7 +1,7 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
-"../../../../../../sources/sram.v" \
-"../../../../Prac5.srcs/sram/new/sram_basic_testbench.v" \
+"../../../../fullsine.srcs/sources_1/imports/sources/sram.v" \
+"../../../../fullsine.srcs/sram/new/sram_basic_testbench.v" \
 
 # compile glbl module
 verilog xil_defaultlib "glbl.v"
